@@ -1,0 +1,38 @@
+
+.collapse {
+    padding-bottom: 15px;
+    padding-right: 10px;
+    
+}
+.box{
+    padding-top: 10px;
+}
+img.slide{
+    height: 600px;
+    
+}
+.box2{
+    height: 23em;
+    background-color: darkorange;
+}
+.font{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+}
+.map{
+    width: 35rem;
+    height: 15rem;
+}
+.head{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+}
+.para{
+    font-size: 28px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.product{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+}
+    
+
